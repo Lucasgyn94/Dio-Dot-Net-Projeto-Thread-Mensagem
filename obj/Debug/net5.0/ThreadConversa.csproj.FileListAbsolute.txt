@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ThreadConversa.exe
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ThreadConversa.deps.json
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ThreadConversa.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ThreadConversa.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ThreadConversa.dll
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ref\ThreadConversa.dll
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\bin\Debug\net5.0\ThreadConversa.pdb
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.dll
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ref\ThreadConversa.dll
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.pdb
+C:\Users\Admin\Desktop\DigitalOne\9- Mentoria_03-Entendendo os principais conceitos da programação orientada a objetos na prática\ThreadConversa\obj\Debug\net5.0\ThreadConversa.genruntimeconfig.cache
